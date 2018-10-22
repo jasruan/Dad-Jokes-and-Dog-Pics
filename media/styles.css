@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Mali|Niramit');
+body{
+    text-align: center;
+    background-image: url("dogpaws.jpeg");
+    background-position: center;
+    background-attachment: fixed;
+}
+button{
+    width:150px;
+    height:50px;
+    border-radius: 25px;
+    font-family: 'Niramit', sans-serif; 
+    font-size:1.0rem;
+    margin-right:50px;
+    box-shadow: 6px 5px 10px black;
+
+}
+button:hover{
+    background-color:tomato;
+    color:white;
+}
+h1{
+    font-family: 'Mali', cursive;
+    color:beige;
+    text-shadow: 10px -5px 10px black;
+}
+div{
+    margin-top:20px;
+}
+p{
+    margin:0 auto;
+    background-color: beige;
+    border-radius: 10px;
+    width:50%;
+    font-family: 'Niramit', sans-serif;
+}
+.dog-container > img{
+    border-radius: 20px;
+}
+.joke-container > p{
+    padding:15px;
+}
