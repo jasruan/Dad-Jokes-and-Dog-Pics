@@ -8,3 +8,4 @@ For the dog pictures:
 https://dog.ceo/dog-api/documentation/random
 
 A pretty simple application created with vanilla javascript. The user can generate a random dad joke and a dog picture along with it.
+https://jasruan.github.io/Dad-Jokes-and-Dog-Pics/
